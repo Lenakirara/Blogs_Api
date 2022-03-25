@@ -28,7 +28,7 @@ Para fazer um post é necessário usuário e login, portanto será trabalhada a 
 1. Clone o repositório
   * `git clone git@github.com:Lenakirara/Blogs_Api.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-011-project-blogs-api`
+    * `cd Blogs_Api`
 
 2. Instale as dependências [**Caso existam**]
   * `npm install`
