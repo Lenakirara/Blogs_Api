@@ -20,14 +20,6 @@ Primeiro, você irá criar uma tabela para os usuários que desejam se cadastrar
 Você deve desenvolver uma aplicação em `Node.js` usando o pacote `sequelize` para fazer um `CRUD` de posts.
 
 Para fazer um post é necessário usuário e login, portanto será trabalhada a **relação entre** `user` e `post`. Também será necessário a utlização de categorias para seus posts, assim trabalhando a relação de `posts` para `categorias` e de `categorias` para `posts`.
- 
-### Data de Entrega
-
-  - Projeto individual.
-
-  - Serão 3 dias de projeto.
-
-  - Data de entrega para avaliação final do projeto: `06/12/2021 - 14:00h`.
 
 ---
 
